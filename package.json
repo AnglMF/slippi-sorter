@@ -1,0 +1,15 @@
+{
+  "name": "slippi-sorter",
+  "description": "Script for sorting slippi match into folders with player tags",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Angel",
+      "email": "angel_11agustin@hotmail.com",
+      "web": ""
+    }
+  ],
+  "dependencies": {
+    "slp-parser-js": "^2.5.0"
+  }
+}
