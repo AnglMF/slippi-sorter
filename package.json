@@ -10,6 +10,7 @@
     }
   ],
   "dependencies": {
+    "loadash": "^1.0.0",
     "slp-parser-js": "^2.5.0"
   }
 }
